@@ -1,0 +1,55 @@
+nav.menu ul {
+    overflow: auto;
+    list-style: none;
+    float: center;
+    padding: 1;
+    width: 100%;
+    margin: 0 0 0;
+    position: unset;
+    background: #e5e5e5;
+}
+nav.menu ul li {
+    margin: 0;
+    float: left;
+}
+nav.menu ul a {
+    font-family: 'Gill Sans', sans-serif;
+    padding: 25px;  
+    display: block;
+    font-weight: 600;
+    font-size: 16px;
+    color: #6e6d6d;
+    text-transform: uppercase;
+    text-decoration: none;
+    }
+nav.menu ul a:hover {
+    background: #a7a7a7;
+}
+.menu input[type=text] {
+    float: right;
+    padding: 15px;
+    border: none;
+    margin-top: 8px;
+    margin-left: 320px;
+    font-size: 17px;
+  }
+.menu button {
+    float: right;
+    padding: 15px;
+    border: none;
+    margin-top: 8px;
+    font-size: 17px;
+}
+.konten {
+    font-family: DejaVu Sans Mono, monospace;;
+}
+.footer {
+    font-family: DejaVu Sans Mono, monospace;
+}
+.judul {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: large;
+}
+
+
+
